@@ -1,10 +1,10 @@
 body {
   font-family: cursive;
-  background-color: #D4D42C;
+  background-color: #ABC3B0;
 }
 
 h1 {
-  color: red;
+  font-size: 115px;
   text-align: center;
 }
 
@@ -15,5 +15,6 @@ ul {
 }
 
 h3 {
+  font-family: serif;
   font-variant-caps: petite-caps;
 }
